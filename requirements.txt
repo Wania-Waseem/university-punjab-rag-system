@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+sentence-transformers
+PyPDF2
+requests
+chromadb
+langchain-chroma
+transformers
+torch
